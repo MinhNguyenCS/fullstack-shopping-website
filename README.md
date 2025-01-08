@@ -49,6 +49,7 @@ The **Admin Panel** includes features to:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/anime-clothes-shop.git
+```
 
 ### 2. Setup the Project
 
@@ -112,7 +113,8 @@ Contributions are welcome! Here's how to get started:
 2. **Clone Your Fork**:
    ```bash
    git clone https://github.com/yourusername/anime-clothes-shop.git
-  ```
+   ```
+
 ## 📬 Contact
 
 If you have any questions or feedback, feel free to reach out:
