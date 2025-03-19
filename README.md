@@ -2,6 +2,7 @@
 
 A **full-stack anime-themed shopping website** offering an intuitive shopping experience for anime clothing enthusiasts. Built with a responsive frontend and a robust backend, it supports both user interaction and admin management.
 
+- **Website:** [Akatsuki Clothes](http://mknguyen.great-site.net/index.php)
 ---
 
 ## 📖 Introduction
